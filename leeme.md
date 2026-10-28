@@ -1,2 +1,2 @@
-## grafica calificaiones
+## grafica calificaciones
 ![alt text](image.png)
